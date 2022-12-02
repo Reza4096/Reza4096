@@ -7,7 +7,6 @@
   - LinkedIn: https://www.linkedin.com/in/alireza-rezazadeh-39b05616a/
   - Instagram: https://www.instagram.com/_reza._.78_/
   - Telegram: @RezaWasHere
-  - StackOverFlow: https://stackoverflow.com/users/11010056/alireza-rezazadeh
 
 
 <!---
