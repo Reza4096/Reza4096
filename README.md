@@ -1,7 +1,5 @@
 - 👋 Hi, I’m AliReza Rezazadeh
-- 👀 I’m interested in Backend/DevSecOps
-- 🌱 I want to learn almost everything 
-- 💞️ I’m looking to collaborate on open source projects
+- 
 - 📫 How to reach me 🙂
   - Email: reza4096@yahoo.com
   - LinkedIn: https://www.linkedin.com/in/alireza-rezazadeh-39b05616a/
